@@ -1,0 +1,6 @@
+google-genai
+pypdf
+uvicorn
+pydantic
+fastapi
+chromadb
