@@ -8,6 +8,7 @@ A production-ready Retrieval-Augmented Generation (RAG) backend built with **Fas
 - **Chroma Cloud Integration:** Scalable, hosted remote serverless cluster indexing using `chromadb.CloudClient`.
 - **FastAPI Lifespan Management:** Uses modern asynchronous `lifespan` architecture to handle file extraction and database syncing seamlessly prior to server initialization.
 - **Strict Schema Enforcement:** Forces Gemini to output formatted JSON matching specific Pydantic data blueprints (`AIFinalReport`).
+- **Frontend Powered by Streamlit** A well organised user interface that is powered by streamlit.
 
 ---
 
