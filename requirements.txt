@@ -4,3 +4,4 @@ uvicorn
 pydantic
 fastapi
 chromadb
+streamlit
